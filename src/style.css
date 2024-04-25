@@ -1,0 +1,19 @@
+.title{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.subtitle{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btnCenter{
+    display: flex;
+    justify-content: center;
+}
+
+
